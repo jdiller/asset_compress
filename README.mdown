@@ -1,3 +1,6 @@
+My local copy change
+
+
 # Asset Compress
 
 Asset Compress is CakePHP plugin for helping reduce the number of requests, and optimizing the remaining requests your application makes for Javascript and CSS files.
